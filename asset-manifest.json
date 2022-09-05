@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AquaKnight/static/css/main.073c9b0a.css",
+    "main.js": "/AquaKnight/static/js/main.7644e73f.js",
+    "static/js/787.2603a4c1.chunk.js": "/AquaKnight/static/js/787.2603a4c1.chunk.js",
+    "static/media/logo.svg": "/AquaKnight/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AquaKnight/index.html",
+    "main.073c9b0a.css.map": "/AquaKnight/static/css/main.073c9b0a.css.map",
+    "main.7644e73f.js.map": "/AquaKnight/static/js/main.7644e73f.js.map",
+    "787.2603a4c1.chunk.js.map": "/AquaKnight/static/js/787.2603a4c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7644e73f.js"
+  ]
+}
