@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Tattay Shaat
+          Anday Shaat
         </a>
       </header>
     </div>
