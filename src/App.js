@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Tube Shaat
+          Tattay Shaat
         </a>
       </header>
     </div>
